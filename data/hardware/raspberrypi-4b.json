@@ -1,0 +1,10 @@
+{
+  "schema_version": "1.0",
+  "identifier": "raspberrypi-4b",
+  "vendor": "Raspberry Pi",
+  "arch": "ARM Cortex-A72",
+  "cpu_freq_mhz": [1500],
+  "ram_total_kb": 2097152,
+  "accelerators": ["arm_neon", "gpu_videocore_vi"],
+  "supported_frameworks": ["tflite_micro", "onnx_runtime"]
+}

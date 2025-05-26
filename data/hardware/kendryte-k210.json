@@ -1,0 +1,10 @@
+{
+  "schema_version": "1.0",
+  "identifier": "kendryte-k210",
+  "vendor": "Kendryte (Canaan)",
+  "arch": "RISC-V Dual Core 64bit",
+  "cpu_freq_mhz": [400],
+  "ram_total_kb": 8192,
+  "accelerators": ["fpu", "npu_kpu"],
+  "supported_frameworks": ["tflite_micro"]
+}

@@ -1,0 +1,10 @@
+{
+  "schema_version": "1.0",
+  "identifier": "raspberrypi-pico",
+  "vendor": "Raspberry Pi",
+  "arch": "ARM Cortex-M0+",
+  "cpu_freq_mhz": [133],
+  "ram_total_kb": 264,
+  "accelerators": [],
+  "supported_frameworks": ["tflite_micro"]
+}

@@ -1,0 +1,10 @@
+{
+  "schema_version": "1.0",
+  "identifier": "nxp-imxrt1060",
+  "vendor": "NXP",
+  "arch": "ARM Cortex-M7",
+  "cpu_freq_mhz": [600],
+  "ram_total_kb": 1024,
+  "accelerators": ["fpu_dp", "dsp_instructions"],
+  "supported_frameworks": ["tflite_micro"]
+}

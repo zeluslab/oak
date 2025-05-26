@@ -1,0 +1,10 @@
+{
+  "schema_version": "1.0",
+  "identifier": "seeed-xiao-esp32s3-sense",
+  "vendor": "Seeed Studio",
+  "arch": "Xtensa LX7",
+  "cpu_freq_mhz": [240],
+  "ram_total_kb": 512,
+  "accelerators": ["vector_instructions", "fpu"],
+  "supported_frameworks": ["tflite_micro"]
+}

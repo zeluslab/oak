@@ -1,0 +1,10 @@
+{
+  "schema_version": "1.0",
+  "identifier": "arduino-nano-33-ble",
+  "vendor": "Arduino",
+  "arch": "ARM Cortex-M4F",
+  "cpu_freq_mhz": [64],
+  "ram_total_kb": 256,
+  "accelerators": ["fpu"],
+  "supported_frameworks": ["tflite_micro"]
+}

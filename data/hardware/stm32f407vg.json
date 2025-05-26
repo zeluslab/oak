@@ -1,0 +1,10 @@
+{
+  "schema_version": "1.0",
+  "identifier": "stm32f407vg",
+  "vendor": "STMicroelectronics",
+  "arch": "ARM Cortex-M4F",
+  "cpu_freq_mhz": [168],
+  "ram_total_kb": 192,
+  "accelerators": ["fpu", "dsp_instructions"],
+  "supported_frameworks": ["tflite_micro"]
+}

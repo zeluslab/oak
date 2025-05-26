@@ -1,0 +1,10 @@
+{
+  "schema_version": "1.0",
+  "identifier": "coral-dev-board-micro",
+  "vendor": "Google",
+  "arch": "ARM Cortex-M7 + ARM Cortex-M4F",
+  "cpu_freq_mhz": [800, 400],
+  "ram_total_kb": 65536,
+  "accelerators": ["npu_google_edge_tpu", "fpu_m7", "fpu_m4", "dsp_instructions"],
+  "supported_frameworks": ["tflite_micro"]
+}

@@ -1,0 +1,10 @@
+{
+  "schema_version": "1.0",
+  "identifier": "arduino-portenta-h7",
+  "vendor": "Arduino",
+  "arch": "ARM Cortex-M7 + ARM Cortex-M4F",
+  "cpu_freq_mhz": [480, 240],
+  "ram_total_kb": 1024,
+  "accelerators": ["fpu_dp_m7", "fpu_sp_m4", "dsp_instructions", "gpu_chrom_art"],
+  "supported_frameworks": ["tflite_micro"]
+}

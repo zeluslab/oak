@@ -1,0 +1,10 @@
+{
+  "schema_version": "1.0",
+  "identifier": "nxp-imxrt1170-evk",
+  "vendor": "NXP",
+  "arch": "ARM Cortex-M7 + ARM Cortex-M4F",
+  "cpu_freq_mhz": [1000, 400],
+  "ram_total_kb": 2048,
+  "accelerators": ["fpu_dp_m7", "fpu_sp_m4", "dsp_instructions", "npu_vérité_vglite"],
+  "supported_frameworks": ["tflite_micro"]
+}

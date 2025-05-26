@@ -1,0 +1,10 @@
+{
+  "schema_version": "1.0",
+  "identifier": "stm32h743zi",
+  "vendor": "STMicroelectronics",
+  "arch": "ARM Cortex-M7",
+  "cpu_freq_mhz": [480],
+  "ram_total_kb": 1024,
+  "accelerators": ["fpu_dp", "dsp_instructions", "hw_crypto", "jpeg_codec"],
+  "supported_frameworks": ["tflite_micro"]
+}

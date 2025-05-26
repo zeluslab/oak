@@ -1,0 +1,10 @@
+{
+  "schema_version": "1.0",
+  "identifier": "raspberrypi-3bplus",
+  "vendor": "Raspberry Pi",
+  "arch": "ARM Cortex-A53",
+  "cpu_freq_mhz": [1400],
+  "ram_total_kb": 1048576,
+  "accelerators": ["arm_neon", "gpu_videocore_iv"],
+  "supported_frameworks": ["tflite_micro", "onnx_runtime"]
+}

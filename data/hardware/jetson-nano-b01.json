@@ -1,0 +1,10 @@
+{
+  "schema_version": "1.0",
+  "identifier": "jetson-nano-b01",
+  "vendor": "NVIDIA",
+  "arch": "ARM Cortex-A57",
+  "cpu_freq_mhz": [1430],
+  "ram_total_kb": 4194304,
+  "accelerators": ["gpu_maxwell_128_cuda"],
+  "supported_frameworks": ["onnx_runtime", "tflite_micro"]
+}
