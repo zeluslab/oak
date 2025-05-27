@@ -1,12 +1,14 @@
-<img src="https://i.ibb.co/9Xbr4fN/Github-Banner-Zelus-Lab-Default.png" alt="Zelus Lab and OAK-KIT" width="100%">
+<a href="https://zeluslab.my.canva.site/" target="_blank">
+  <img src="https://i.ibb.co/9Xbr4fN/Github-Banner-Zelus-Lab-Default.png" alt="Zelus Lab and OAK-KIT" width="100%">
+</a>
 
 ## Vision
 
 To become the standard CLI tool for developers seeking to deploy Machine Learning models on edge hardware efficiently, sustainably, and energy-consciously. OAK (Optimization Advisor Kit) aims to democratize Green AI at the edge by removing the complexity from the TinyML/Edge AI process.
 
-**Project Status:** Version 0.1.0 (Alpha) - Heuristic advisory with multi-hardware support and optimization strategies.
-
 ## Features (v0.1.0)
+
+**Project Status:** Version 0.1.0 (Alpha) - Heuristic advisory with multi-hardware support and optimization strategies.
 
 - Analyzes Machine Learning models in ONNX format
 - Extracts key model metrics including size, operation count, and MACs (Multiply-Accumulate operations)
@@ -135,8 +137,6 @@ Instructions on how to contribute, add new hardware profiles, submit benchmarks 
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
----
-
 ## Roadmap
 
 ### Current Version (0.1.0 - Alpha)
@@ -149,8 +149,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **v0.2.0**: Improved estimation accuracy and support for more model formats
 - **v0.3.0**: Integration with real benchmarking tools
 - **v1.0.0**: Recommendation system based on empirical data and ML
-
----
 
 ## Requirements
 
