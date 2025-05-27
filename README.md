@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://i.ibb.co/FqC5ntFw/Github-Banner-Zelus-Lab-Default.png" alt="Logo da Minha Empresa" />
-</p>
+<img src="https://i.ibb.co/k6qRBSnY/Github-Banner-Zelus-Lab-Default.png" alt="Zelus Lab and OAK-KIT" width="100%">
 
 # OAK-KIT: OPTIMIZATION ADVISOR KIT
 **Project Status:** Version 0.1.0 (Alpha) - Heuristic advisory with multi-hardware support and optimization strategies.
