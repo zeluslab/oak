@@ -1,7 +1,8 @@
-# OAK: Optimization Advisor Kit 🌳
+<p align="center">
+  <img src="https://i.ibb.co/FqC5ntFw/Github-Banner-Zelus-Lab-Default.png" alt="Logo da Minha Empresa" />
+</p>
 
-OAK (Optimization Advisor Kit) is a command-line interface (CLI) tool designed to help developers optimize Machine Learning models for efficient deployment on edge hardware (Edge AI / TinyML).
-
+# OAK-KIT: OPTIMIZATION ADVISOR KIT
 **Project Status:** Version 0.1.0 (Alpha) - Heuristic advisory with multi-hardware support and optimization strategies.
 
 ## Vision
@@ -33,8 +34,8 @@ To become the standard CLI tool for developers seeking to deploy Machine Learnin
    ```bash
    python3 -m venv .venv  # Or python -m venv .venv
    source .venv/bin/activate  # On Linux/macOS
-   # .venv\Scripts\activate   # On Windows PowerShell
-   # call .venv\Scripts\activate.bat # On Windows CMD
+   .venv\Scripts\activate   # On Windows PowerShell
+   call .venv\Scripts\activate.bat # On Windows CMD
    ```
 
 3. **Install dependencies from requirements.txt:**
@@ -157,7 +158,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Requirements
 
 - Python 3.8+
-- Dependencies listed in `requirements.txt`
+- Dependencies listed in [requirements.txt](requirements.txt)
 
 ## Project Structure
 
